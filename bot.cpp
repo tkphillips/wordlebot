@@ -38,6 +38,9 @@ string findOptimalWordInList(vector<string> words){
 
 int main () {
     //Guess TRACE???
+    cout << "Please enter the word 'TRACE'" << endl;
+    for(int i = 0; i < 6; i++){
 
+    }
     return 0;
 }
